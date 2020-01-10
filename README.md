@@ -1,1 +1,1 @@
-[Here lives](/cyber•Chain.md) original commits and whitepaper of cyber protocol solely for archeological purpose. You'd better go to [more fresh version](https://ipfs.io/ipfs/QmceNpj6HfS81PcCaQXrFMQf7LR5FTLkdG9sbSRNy3UXoZ).
+Here lives original commits and whitepaper of [cyber protocol solely for archeological purpose](/cyber•Chain.md). You'd better go to [more fresh version](https://ipfs.io/ipfs/QmceNpj6HfS81PcCaQXrFMQf7LR5FTLkdG9sbSRNy3UXoZ).
